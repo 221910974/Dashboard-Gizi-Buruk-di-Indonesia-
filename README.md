@@ -1,20 +1,20 @@
 # Pembangunan Dashboard Gizi Buruk di Indonesia Menggunakan Tableau
  
- Hady Rizaldy Gunawan (221910974, 3SD1, 19)
+#### Hady Rizaldy Gunawan (221910974, 3SD1, 19)
  
- UAS Visualisasi Data
+#### UAS Visualisasi Data
   
-I.	LATAR BELAKANG
+### I.	LATAR BELAKANG
 
 Hingga saat ini, gizi buruk masih menjadi masalah utama kesehatan yang menarik perhatian banyak masyarakat luas. Di negara berkembang tercatat bahwa sepertiga dari populasi balita yang ada di negaranya mengalami gizi buruk. Hal ini tentunya akan berdampak buruk bagi suatu negara, karena jika bayi yang mengalami gizi buruk dibiarkan bertahan hingga dewasa mereka akan beresiko mengalami perkembangan kognitif yang buruk dan reproduktivitas yang rendah (Smith dan Haddad, 2000). Selain itu gizi buruk juga dapat menyebabkan kematian, keadaan ini cukup mengakhawatirkan bagi suatu negara dikarenakan anak adalah generasi penerus bangsa.
 Di Indonesia jumlah kasus gizi buruk pada tahun 2012 sebanyak 42.702 kasus kurang lebih mengalami penurunan sebesar 14%, namun dalam beberapa tahun terakhir penurunannya sangat landai (Kementrian Kesehatan RI, 2013). Meskipun mengalami penurunan secara nasional, namun secara regional terdapat beberapa provinsi yang tercatat memiliki angka gizi buruk yang cukup tinggi. Provinsi tersebut diantaranya adalah Jawa Tengah, Jawa Timur dan Nusa Tenggara Timur. Walaupun begitu masalah gizi buruk ini merupakan isu kesehatan yang harus terus diwaspadai dan ditangani secara maksimal. Untuk memaksimalkan penanganan gizi buruk, perlu diketahui faktor-faktor yang mempengaruhi gizi buruk. 
 
-II.	METODE PENELITIAN
+### II.	METODE PENELITIAN
 
 Metode penelitian yang akan digunakan untuk pembangunan dashboard gizi di Indonesia adalah metode eksperimen dengan beberapa tahapan. Data yang akan digunakan untuk pembuatan dashboard adalah data mengenai gizi yang bersumber dari Profil Kesehatan Indonesia Tahun 2020 dan website Kementrian Kesehatan Republik Indonesia.
 Penelitian ini akan dilakukan dengan beberapa tahapan, dimulai dari studi literatur mengenai gizi, dashboard dan implementasi menggunakan tableau. Selanjutnya mempersiapkan data yang dibutuhkan dan melalui tahap ETL dan data validation. Setelah datanya valid dan sesuai dengan kebutuhan user, maka akan akan dilanjutkan ketahapan akhir yaitu visualisasi dan pembuatan dashboard.
 
-III.	HASIL DAN PEMBAHASAN
+### III.	HASIL DAN PEMBAHASAN
 
 Bagian ini menguraikan hasil dari proses ekstraksi dari datasource dan pengolahannya terkait gizi di Indonesia, sehingga nantinya didapati output berupa visualisasi yang nantinya akan dibentuk menjadi dashboard.
 
@@ -77,6 +77,6 @@ Dashboard dibuat dengan menggabungkan semua visualisasi yang telah dibentuk. Das
 
 Dashboard yang dirancang dengan rapi dan terorganisasi dapat berperan dalam mempercepat penyampaian  informasi dan memudahkan  pengambilan keputusan. Berikut merupakan  link tableau dashboard Gizi Buruk Balita di Indonesia Tahun 2020 (https://public.tableau.com/app/profile/hady.rizaldy.gunawan/viz/GiziBurukBalitadiIndonesia/Dashboard?publish=yes ).
 
-V.	KESIMPULAN
+### IV.	KESIMPULAN
 
 Data gizi buruk yang digunakan dari Profil Kesehatan Indonesia dan website  Kemenkes ternyata dapat divisualisasikan dengan baik dan sistematis menggunakan platform tableau. Dashboard yang baik dan dirancang dengan rai, sistematis, dan terorganisasi dapat mempercepat penyampaian informasi dan memudahkan pengambilan keputusan.
